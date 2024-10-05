@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="sessoes_macaiba">
+  <name>sessoes_macaiba</name>
+  <snippet></snippet>
+  <Folder id="FeatureLayer0">
+    <name>sessoes_macaiba</name>
+    <snippet></snippet>
+    <Placemark id="ID_00000">
+      <name>ANEXO DA ESCOLA MUNICIPAL SEVERIANO FIRME DOS SANTOS</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ANEXO DA ESCOLA MUNICIPAL SEVERIANO FIRME DOS SANTOS</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ANEXO DA ESCOLA MUNICIPAL SEVERIANO FIRME DOS SANTOS</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: SITIO LAGOA DOS CURRAIS,  S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.8823274&lt;br&gt;Longitude: -35.52738022</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.52738021999994,-5.882327399807316,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>ASSOCIAÇAO DO PROJETO DE ASSENTAMENTO E REFORMA AGRARIA JOSE COELHO</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ASSOCIAÇAO DO PROJETO DE ASSENTAMENTO E REFORMA AGRARIA JOSE COELHO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ASSOCIAÇAO DO PROJETO DE ASSENTAMENTO E REFORMA AGRARIA JOSE COELHO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: RETA TABAJARA S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.88968248&lt;br&gt;Longitude: -35.47916592</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.47916591999996,-5.889682479807107,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>CENTRO COMUNITARIO INTEGRADO -  CCI</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>CENTRO COMUNITARIO INTEGRADO -  CCI</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>CENTRO COMUNITARIO INTEGRADO -  CCI</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: RUA VALDIR AZEVEDO,18&lt;br&gt;Bairro: CAMPO DA SANTA CRUZ&lt;br&gt;Latitude: -5.8495637&lt;br&gt;Longitude: -35.3544991</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.35449909999994,-5.8495636998084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>CRAS - CENTRO DE REFERÊNCIA E ASSISTÊNCIA SOCIAL</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>CRAS - CENTRO DE REFERÊNCIA E ASSISTÊNCIA SOCIAL</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>CRAS - CENTRO DE REFERÊNCIA E ASSISTÊNCIA SOCIAL</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: RUA PROFESSOR PAULO MESQUITA, S/N&lt;br&gt;Bairro: CONJUNTO IPE&lt;br&gt;Latitude: -5.8542299&lt;br&gt;Longitude: -35.3521932</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.35219319999993,-5.854229899808225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>EAJ - ESCOLA AGRÍCOLA DO JUNDIAI</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>EAJ - ESCOLA AGRÍCOLA DO JUNDIAI</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>EAJ - ESCOLA AGRÍCOLA DO JUNDIAI</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: POVOADO DE JUNDIAI, S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.88404854&lt;br&gt;Longitude: -35.36499836</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.36499835999996,-5.884048539807289,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>ESCOLA ESTADUAL ALFREDO MESQUITA FILHO</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA ESTADUAL ALFREDO MESQUITA FILHO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA ESTADUAL ALFREDO MESQUITA FILHO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: RUA CAMPO SANTO,  S/N&lt;br&gt;Bairro: CENTRO&lt;br&gt;Latitude: -5.8560152&lt;br&gt;Longitude: -35.3585746</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.35857459999994,-5.856015199808159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>ESCOLA ESTADUAL OTACILIO ALECRIM</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA ESTADUAL OTACILIO ALECRIM</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA ESTADUAL OTACILIO ALECRIM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: CONJUNTO PROMORAR&lt;br&gt;Bairro: CENTRO&lt;br&gt;Latitude: -5.8497235&lt;br&gt;Longitude: -35.3490442</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.34904419999998,-5.849723499808341,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>ESCOLA ESTADUAL PROFESSORA MARILUZA ALMEIDA FLORENTINO</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA ESTADUAL PROFESSORA MARILUZA ALMEIDA FLORENTINO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA ESTADUAL PROFESSORA MARILUZA ALMEIDA FLORENTINO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: LOTEAMENTO SANTO ANTONIO&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.8442967&lt;br&gt;Longitude: -35.3491119</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.34911189999997,-5.844296699808565,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>ESCOLA MUNICIPAL BARTOLOMEU FAGUNDES</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL BARTOLOMEU FAGUNDES</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL BARTOLOMEU FAGUNDES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: RETA TABAJARA, S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.87293846&lt;br&gt;Longitude: -35.4339883</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.43398829999995,-5.872938459807616,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>ESCOLA MUNICIPAL CRECHE FRANCISCO FALCAO FREIRE</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL CRECHE FRANCISCO FALCAO FREIRE</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL CRECHE FRANCISCO FALCAO FREIRE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: OLIMPIO MACIEL, S/N&lt;br&gt;Bairro: CENTRO&lt;br&gt;Latitude: -5.8490398&lt;br&gt;Longitude: -35.3699987</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.36999869999994,-5.849039799808398,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>ESCOLA MUNICIPAL IOLANDA CHAVES LUCENA</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL IOLANDA CHAVES LUCENA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL IOLANDA CHAVES LUCENA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: POVOADO LAGOA DO MATO, S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.8482032&lt;br&gt;Longitude: -35.4635883</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.46358829999997,-5.848203199808413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>ESCOLA MUNICIPAL LUIZ CURCIO MARINHO</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL LUIZ CURCIO MARINHO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL LUIZ CURCIO MARINHO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: POVOADO TAPARA, S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.8479462&lt;br&gt;Longitude: -35.4090859</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.40908589999998,-5.847946199808443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>ESCOLA MUNICIPAL MARIA DO CARMO DA SILVA</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL MARIA DO CARMO DA SILVA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL MARIA DO CARMO DA SILVA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: COMUNIDADE DO RETIRO, S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.8695948&lt;br&gt;Longitude: -35.4521306</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.45213059999998,-5.869594799807734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>ESCOLA MUNICIPAL PEDRO GOMES DE SOUSA</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL PEDRO GOMES DE SOUSA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL PEDRO GOMES DE SOUSA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: R VEREADOR PEDRO GOMES DE SOUSA, S/N    CONJ. IPE&lt;br&gt;Bairro: CENTRO&lt;br&gt;Latitude: -5.8532071&lt;br&gt;Longitude: -35.3509579</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.35095789999997,-5.853207099808267,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>ESCOLA MUNICIPAL PINHEIRO BORGES</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL PINHEIRO BORGES</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL PINHEIRO BORGES</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: RUA PINHEIRO BORGES, S/N&lt;br&gt;Bairro: CAMPO DA SANTA CRUZ&lt;br&gt;Latitude: -5.8499316&lt;br&gt;Longitude: -35.3539965</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.35399649999994,-5.849931599808343,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>ESCOLA MUNICIPAL PROF. SEVERINO BEZERRA</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL PROF. SEVERINO BEZERRA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL PROF. SEVERINO BEZERRA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: POVOADO LAGOA DO LIMA, S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.9055076&lt;br&gt;Longitude: -35.4684457</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.46844569999996,-5.90550759980658,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>ESCOLA MUNICIPAL SEVERIANO FIRME DOS SANTOS</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL SEVERIANO FIRME DOS SANTOS</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL SEVERIANO FIRME DOS SANTOS</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: DISTRITO LAGOA DOS CAVALOS, S/N&lt;br&gt;Bairro: ZONA RURAL&lt;br&gt;Latitude: -5.8831612&lt;br&gt;Longitude: -35.494556</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.49455599999992,-5.883161199807301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>ESCOLA MUNICIPAL TEREZA BRITO</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>ESCOLA MUNICIPAL TEREZA BRITO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Name</td>
+<td>ESCOLA MUNICIPAL TEREZA BRITO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td>UF: RN&lt;br&gt;Zona: 5&lt;br&gt;Municipio: MACAÍBA&lt;br&gt;Endereco: RUA ALFREDO MESQUITA, S/N&lt;br&gt;Bairro: CAMPO DA MANGUEIRA&lt;br&gt;Latitude: -5.8522966&lt;br&gt;Longitude: -35.3593016</td>
+</tr>
+<tr>
+<td>equipe</td>
+<td>2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -35.35930159999998,-5.852296599808268,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>1.000000</scale>
+      <Icon><href>Layer0_Symbol_81732850_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
